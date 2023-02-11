@@ -2,7 +2,7 @@
 
 Este programa simula la función de un cajero automático: Consulta de saldo, Retiros, Transferencias, Consulta de puntos, Canje de puntos.<br>
 
-Datos de los clientes registrados, puede iniciar sesión el cajero con cualquiera de estos clientes:<br>
+**Datos de los clientes registrados, puede iniciar sesión el cajero con cualquiera de estos clientes:**<br>
 <br>
 
 **- Cliente 1:**<br>
